@@ -1,0 +1,16 @@
+transformers>=4.30.0
+datasets>=2.12.0
+torch>=2.0.0
+accelerate>=0.20.0
+sentence-transformers>=2.2.2
+langchain>=0.0.500
+faiss-cpu>=1.7.4
+huggingface_hub>=0.13.0
+uvicorn
+fastapi
+python-multipart
+tqdm
+pandas
+scikit-learn
+evaluate
+streamlit
